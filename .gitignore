@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+outputs/
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store
+
+# Pengaturan editor (khusus laptop sendiri)
+.vscode/
+
